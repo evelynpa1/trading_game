@@ -1,3 +1,17 @@
+/*
+replace with 
+
+"use client";
+import LandingPage from "./landing_page";
+
+export default function Home() {
+  return <LandingPage />;
+}
+
+to make react component viewable in the browser
+
+*/
+
 "use client";
 import Image from "next/image";
 import { useEffect, useState } from "react";
